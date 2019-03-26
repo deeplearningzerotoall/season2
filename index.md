@@ -14,7 +14,7 @@ layout: default
 
 > "모두를 위한 딥러닝"을 수강하신 여러분이 강좌를 만들어 나가면 어떨까?
 
-그렇게 "모두가 만드는 모두의 딥러닝" - 모모딥 시즌2 프로젝트를 시작하게 되었고, 많은 분들께서 참여의사를 밝혀주셨습니다. 더 많은 사람들과 함께하고 싶었으나, 우선은 12분의 Contents Contributor 와 1분의 Docker Creator 를 모시고 프로젝트를 진행했습니다.
+그렇게 "모두가 만드는 모두의 딥러닝 - 모모딥" 프로젝트를 시작하게 되었고, 많은 분들께서 참여의사를 밝혀주셨습니다. 더 많은 사람들과 함께하고 싶었으나, 우선은 12분의 Contents Contributor 와 1분의 Docker Creator 를 모시고 프로젝트를 진행했습니다.
 
 그리고 2019년 3월에 정식으로 소개드리려고 합니다.
 
@@ -22,22 +22,22 @@ layout: default
 
 ## Contributors(가나다순):
 
-- 강현우: https://github.com/znxlwm
-- 김기현: https://github.com/kh-kim
-- 김보섭: https://github.com/aisolab
-- 김상근: https://github.com/dldldlfma
-- 김수상: https://github.com/healess
-- 김영석: https://github.com/mightydeveloper
-- 김준호: https://github.com/taki0112
-- 김형석: https://github.com/hyoungseok
-- 신성진: https://github.com/aiscientist
-- 오상준: https://github.com/juneoh
-- 이승재: https://github.com/seungjaeryanlee
-- 이승준: https://github.com/FinanceData
-- 이진원: https://github.com/jwlee-ml
-- 임우담: https://github.com/Lzino
-- 장지수: https://github.com/simonjisu
-- 커넥트재단: https://connect.or.kr/
+- 강현우: [https://github.com/znxlwm](https://github.com/znxlwm)
+- 김기현: [https://github.com/kh-kim](https://github.com/kh-kim)
+- 김보섭: [https://github.com/aisolab](https://github.com/aisolab)
+- 김상근: [https://github.com/dldldlfma](https://github.com/dldldlfma)
+- 김수상: [https://github.com/healess](https://github.com/healess)
+- 김영석: [https://github.com/mightydeveloper](https://github.com/mightydeveloper)
+- 김준호: [https://github.com/taki0112](https://github.com/taki0112)
+- 김형석: [https://github.com/hyoungseok](https://github.com/hyoungseok)
+- 신성진: [https://github.com/aiscientist](https://github.com/aiscientist)
+- 오상준: [https://github.com/juneoh](https://github.com/juneoh)
+- 이승재: [https://github.com/seungjaeryanlee](https://github.com/seungjaeryanlee)
+- 이승준: [https://github.com/FinanceData](https://github.com/FinanceData)
+- 이진원: [https://github.com/jwlee-ml](https://github.com/jwlee-ml)
+- 임우담: [https://github.com/Lzino](https://github.com/Lzino)
+- 장지수: [https://github.com/simonjisu](https://github.com/simonjisu)
+- 커넥트재단: [https://connect.or.kr](https://connect.or.kr)
 
 ## TensorFlow
 
@@ -47,6 +47,6 @@ layout: default
 
 ## PyTorch
 
-* 32개, 총 9시간 분량의 강좌 영상
+* 34개, 총 9시간 분량의 강좌 영상
 
 자세한 강좌내용은 [PyTorch 상세 페이지](./lec_pytorch.html)에서 확인해주세요!

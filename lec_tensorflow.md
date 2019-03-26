@@ -20,7 +20,7 @@ description: This is TensorFlow page.
 
 ### PART 1: Basic Machine Learning
 
-- Lec 01: 기본적인 Machine Learning 의 용어와 개념 설명
+- Lec 01: 기본적인 Machine Learning 의 용어와 개념 설명 [![](./assets/pdf.png)]({{ site.github.down_rul }}/TensorFlow/Lec-01.pdf)
 - Lab 01: (추가예정)
 - Lec 02: Simple Linear Regression
 - Lab 02: Simple Linear Regression 를 TensorFlow 로 구현하기
@@ -35,11 +35,11 @@ description: This is TensorFlow page.
 - Lec 06-2: Softmax Classifier의 cost함수
 - Lab 06-1: Softmax classifier 를 TensorFlow 로 구현하기
 - Lab 06-2: Fancy Softmax classifier 를 TensorFlow 로 구현하기
-- Lec 07-1: Application & Tips: 학습률(Learning Rate)과 데이터 전처리(Data Preprocessing)
-- Lec 07-2: Application & Tips: 오버피팅(Overfitting) & Solutions
-- Lab 07-1: Application & Tips: 학습률, 전처리, 오버피팅을 TensorFlow 로 실습
-- Lec 07-3: Application & Tips: Data & Learning
-- Lab 07-2: Application & Tips: 다양한 Dataset 으로 실습
+- Lab 07-1: Application & Tips: 학습률(Learning Rate)과 데이터 전처리(Data Preprocessing)
+- Lab 07-2-1: Application & Tips: 오버피팅(Overfitting) & Solutions
+- Lab 07-2-2: Application & Tips: 학습률, 전처리, 오버피팅을 TensorFlow 로 실습
+- Lab 07-3-1: Application & Tips: Data & Learning
+- Lab 07-3-2: Application & Tips: 다양한 Dataset 으로 실습
 
 ### PART 2: Basic Deep Learning
 
@@ -50,7 +50,7 @@ description: This is TensorFlow page.
 - Lab 09-1: Neural Net for XOR
 - Lab 09-2: Tensorboard (Neural Net for XOR)
 - Lab 10-1: Sigmoid 보다 ReLU가 더 좋아
-- Lab 10-2: Weight 초기화 잘해보자
+- Lab 10-2: Weight 초기화 잘해보자d
 - Lab 10-3: Dropout
 - Lab 10-4: Batch Normalization
 
