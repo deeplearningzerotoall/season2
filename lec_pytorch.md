@@ -10,9 +10,9 @@ description: This is PyTroch page.
 
 아래 링크에서 슬라이드와 영상을 통해 학습을 시작할 수 있습니다.
 
-- Github: [https://github.com/deeplearningzerotoall/PyTorch](https://github.com/deeplearningzerotoall/PyTorch)
-- YouTube: [http://bit.ly/2T0jXX3](http://bit.ly/2T0jXX3)
-- Slide: [http://bit.ly/2VrZcWM](http://bit.ly/2VrZcWM)
+- ![](assets/github.png) Github: [https://github.com/deeplearningzerotoall/PyTorch](https://github.com/deeplearningzerotoall/PyTorch)
+- ![](assets/video.png) YouTube: [http://bit.ly/2UVk3kn](http://bit.ly/2UVk3kn)
+- ![](assets/pdf.png) Slide: [http://bit.ly/2VrZcWM](http://bit.ly/2VrZcWM)
 
 ---
 
@@ -51,6 +51,7 @@ description: This is PyTroch page.
 - Lab-10-5 Advance CNN(VGG)
 - Lab-10-6-1 Advanced CNN(RESNET-1)
 - Lab-10-6-2 Advanced CNN(RESNET-2)
+- Lab-10-7 Next step of CNN
 
 ### PART 4: Recurrent Neural Network
 

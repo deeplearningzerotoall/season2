@@ -3,5 +3,6 @@ description: Deep Learning Zero To All - Season 2 page
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
-github:
-  down_url: https://github.com/deeplearningzerotoall/season2/download
+down:
+  tf: /downloads/TensorFlow
+  pt: /downloads/PyTorch

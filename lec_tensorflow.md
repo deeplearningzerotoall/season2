@@ -10,9 +10,9 @@ description: This is TensorFlow page.
 
 아래 링크에서 학습을 시작할 수 있습니다.
 
-- Github: [https://github.com/deeplearningzerotoall/TensorFlow](https://github.com/deeplearningzerotoall/TensorFlow)
-- YouTube: [http://bit.ly/2TSTkYJ](http://bit.ly/2TSTkYJ)
-- Slide: [http://bit.ly/2LQMKvk](http://bit.ly/2LQMKvk)
+- ![](assets/github.png) Github: [https://github.com/deeplearningzerotoall/TensorFlow](https://github.com/deeplearningzerotoall/TensorFlow)
+- ![](assets/video.png) YouTube: [http://bit.ly/2HHrybT](http://bit.ly/2HHrybT)
+- ![](assets/pdf.png) Slide: [http://bit.ly/2LQMKvk](http://bit.ly/2LQMKvk)
 
 ---
 
@@ -20,8 +20,8 @@ description: This is TensorFlow page.
 
 ### PART 1: Basic Machine Learning
 
-- Lec 01: 기본적인 Machine Learning 의 용어와 개념 설명 [![](./assets/pdf.png)]({{ site.github.down_rul }}/TensorFlow/Lec-01.pdf)
-- Lab 01: (추가예정)
+- Lec 01: 기본적인 Machine Learning 의 용어와 개념 설명
+- (추가예정)
 - Lec 02: Simple Linear Regression
 - Lab 02: Simple Linear Regression 를 TensorFlow 로 구현하기
 - Lec 03: Linear Regression and How to minimize cost
@@ -59,8 +59,8 @@ description: This is TensorFlow page.
 - Lec 11-1: ConvNet의 Conv 레이어 만들기
 - Lec 11-2: ConvNet Max pooling 과 Full Network
 - Lec 11-3: ConvNet의 활용예
-- Lab 11-0: CNN Basic: Convolution
-- Lab 11-0: CNN Basic: Pooling
+- Lab 11-0-1: CNN Basic: Convolution
+- Lab 11-0-2: CNN Basic: Pooling
 - Lab 11-2: mnist cnn keras functional eager
 - Lab 11-1: mnist cnn keras sequential eager
 - Lab-11-3: mnist cnn keras subclassing eager
