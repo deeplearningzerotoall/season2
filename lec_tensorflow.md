@@ -8,7 +8,7 @@ description: This is TensorFlow page.
 
 <img src="https://www.gstatic.com/devrel-devsite/v804714fbf31610f6bd494c83c2b0ed270c7475db2947bab1f550f430dad1ed36/tensorflow/images/lockup.svg" width="30%">
 
-아래 링크에서 학습을 시작할 수 있습니다.
+아래 링크에서 학습을 시작할 수 있습니다. 도커를 사용하실 분은 Github 의 [도커 가이드 문서](https://github.com/deeplearningzerotoall/TensorFlow/blob/master/docker_user_guide.md)를 참고해주세요! 
 
 - ![](assets/github.png) Github: [https://github.com/deeplearningzerotoall/TensorFlow](https://github.com/deeplearningzerotoall/TensorFlow)
 - ![](assets/video.png) YouTube: [http://bit.ly/2HHrybT](http://bit.ly/2HHrybT)
@@ -21,7 +21,6 @@ description: This is TensorFlow page.
 ### PART 1: Basic Machine Learning
 
 - Lec 01: 기본적인 Machine Learning 의 용어와 개념 설명
-- (추가예정)
 - Lec 02: Simple Linear Regression
 - Lab 02: Simple Linear Regression 를 TensorFlow 로 구현하기
 - Lec 03: Linear Regression and How to minimize cost

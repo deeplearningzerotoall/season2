@@ -8,7 +8,7 @@ description: This is PyTroch page.
 
 <img src="https://pytorch.org/assets/images/logo-dark.svg" width="30%">
 
-아래 링크에서 슬라이드와 영상을 통해 학습을 시작할 수 있습니다.
+아래 링크에서 슬라이드와 영상을 통해 학습을 시작할 수 있습니다. 도커를 사용하실 분은 Github 의 [도커 가이드 문서](https://github.com/deeplearningzerotoall/PyTorch/blob/master/docker_user_guide.md)를 참고해주세요!
 
 - ![](assets/github.png) Github: [https://github.com/deeplearningzerotoall/PyTorch](https://github.com/deeplearningzerotoall/PyTorch)
 - ![](assets/video.png) YouTube: [http://bit.ly/2UVk3kn](http://bit.ly/2UVk3kn)
