@@ -24,8 +24,8 @@ layout: default
 
 {% include youtubePlayer.html id="oMRXB34i3Ps" %}
 
-- 발제일: 2018년 8월 28일 [페이스북](https://www.facebook.com/groups/TensorFlowKR/permalink/741437216197339/)
-- 시즌2 배포일(v.1): 2019년 3월 28일
+- 발제일: 2018년 8월 28일 [(페이스북)](https://www.facebook.com/groups/TensorFlowKR/permalink/741437216197339/)
+- 시즌2 배포일(v.1): 2019년 3월 28일 [(페이스북)](https://www.facebook.com/groups/TensorFlowKR/permalink/871378729869853/)
 
 ## Contributors(가나다순):
 
