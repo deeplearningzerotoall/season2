@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 모두를 위한 딥러닝 시즌 2 - PyTorch
-description: This is PyTroch page.
+description: This is PyTorch page.
 ---
 
 # Deep Learning Zero To All : PyTorch
